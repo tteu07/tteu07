@@ -1,16 +1,13 @@
-### Hi there 👋
+_bem vindos ao meu perfil_💙
 
-<!--
-**tteu07/tteu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é matheus silva
 
-Here are some ideas to get you started:
+-estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo na linguagem JvaScript
+
+- ## vocẽ pode entra em contato comigo
+- matheus.novossad.silva@escola.pr.gov.br
+- @_tteu07
+
+![](https://media.tenor.com/albzGytmjIoAAAAC/good-night.gif)
